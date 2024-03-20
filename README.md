@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashu00008
 - 👀 I’m interested in technical Job
-- 🌱 I’m currently learning devops,backend
+- 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on companies who help in gaining and making my technical knowledge strong.
 - 📫 How to reach me ...
 
